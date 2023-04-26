@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Ice Age",
+        "year": 2002,
+        "director": "Chris Wedge y Carlos Saldanha,",
+        "pic_sm": "foto-1-chica.jpg",
+        "pic_lg": "foto-1-grande.png",
+        "trailer": "https://youtu.be/i4noiCRJRoE",
+        "description": "La película comienza en la era de hielo, mostrando a Scrat, una pequeña ardilla de dientes de sable, ladrona de nueces y bellotas que busca un lugar para guardar su bellota para el invierno. Al encontrarlo, este intenta resguardarla en el suelo pero termina formando una grieta que desencadenará una catástrofe que por poco termina con su vida. Al salir de allí, Scrat se alegra de que se encuentre de vuelta con su bellota, pero luego termina siendo aplastado por un mamut lanudo."
+    },
+    {
+        "name": "Ice Age: The Meltdown",
+        "year": 2006,
+        "director": "Carlos Saldanha",
+        "pic_sm": "foto-2-chica.png",
+        "pic_lg": "foto-2-grande.png",
+        "trailer": "https://youtu.be/s4PWGVtIZWA",
+        "description": "En esta nueva aventura nuestro trío sigue junto y disfrutando de las ventajas de su mundo fundente. Manny quizás ya esté preparado para fundar una familia, pero nadie ha visto otro mamut desde hace un montón de tiempo; de hecho, Manny piensa que probablemente sea el último de su especie. Así es hasta que de forma milagrosa se encuentra con Ellie (a la que pone voz Queen Latifah), el único mamut de sexo femenino que queda sobre la faz de la Tierra. Sólo hay un par de pegas: No se caen nada bien - y Ellie por alguna extraña razón ¡piensa que es una zarigüeya!"
+    },
+    {
+        "name": "Ice Age: Dawn of the Dinosaurs",
+        "year": 2009,
+        "director": "Carlos Saldanha y Mike Thurmeier",
+        "pic_sm": "foto-3-chica.png",
+        "pic_lg": "foto-3-grande.png",
+        "trailer": "https://youtu.be/MnAi5u-k9NY",
+        "description": "La historia comienza con Scrat robando una bellota en un principio cuando se encuentra a Scratte, una ardilla prehistórica ladrona femenina. Al principio se enamora, pero se da cuenta de que también quería su bellota. Después de una pelea con la ardilla, termina lanzándola a un precipicio, de donde quiere rescatarla. Pero la ardilla Scratte se agarra de la bellota y se escapa con ella ya que era una ardilla voladora, mientras Scrat cae al precipicio y cae en el pie de Sid. Después se ve a Manny corriendo con agua porque supuestamente su hijo/a iba a nacer, demostrando su obsesión. Manny y Ellie están esperando su primer hijo, y Manny está obsesionado con hacer la vida perfecta y segura para la familia, debido a que anteriormente cazadores humanos asesinaron a su anterior esposa y su hijo, la obsesión era a tal punto que incluso construyó un parque muy seguro para su bebé. Al mismo tiempo, Diego se encuentra incapaz de atrapar a una engreída gacela al estar acechando. Después discute con Manny porque estaba perdiendo el toque y no podía cazar bien. Diego decide salir de la manada, en la creencia de que está perdiendo su naturaleza depredadora como un tigre."
+    },
+    {
+        "name": "Ice Age: Continental Drift",
+        "year": 2012,
+        "director": "Steve Martino y Mike Thurmeier",
+        "pic_sm": "foto-4-chica.png",
+        "pic_lg": "foto-4-grande.png",
+        "trailer": "https://youtu.be/xz-KgMtU_BM",
+        "description": "La película comienza con Scrat y su bellota. Está buscando un lugar para enterrar a su bellota pero el rompe una montaña, el cae y llega hasta el centro de la Tierra. Scrat empieza a correr sobre el núcleo para atrapar a su bellota pero causa que Pangea se separé rápidamente y los continentes se empiecen a formar. Scrat logra agarrar la bellota pero sale disparado junto a su bellota hasta que se estrella en un témpano de hielo y que al final la bellota se aleje de él."
+    },
+    {
+        "name": "La quinta cuestión",
+        "year": 2010,
+        "director": "Nombre Apellido",
+        "pic_sm": "foto-1-chica.jpg",
+        "pic_lg": "foto-1-grande.jpg",
+        "trailer": "https://youtu.be/BApEMYvtiDc",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris vel enim vitae dolor suscipit mollis at eget elit. Pellentesque mattis, arcu non dignissim mollis, velit risus imperdiet felis, maximus venenatis felis felis eu dui. Nunc dui tellus, maximus a eleifend tempus, porta eget tortor. Vivamus sed auctor tellus. Vestibulum finibus massa ex, eget tempor nisi efficitur et. Vivamus sodales est venenatis metus fermentum hendrerit. Donec sollicitudin a leo quis euismod. Aliquam enim lacus, cursus non pharetra vitae, fermentum in justo. Integer consectetur sed augue nec porta. Morbi ornare blandit sem. Fusce ex nisi, interdum non gravida sed, sollicitudin eget quam. Mauris in lobortis arcu, id ultricies turpis."
+    },
+    {
+        "name": "La sexta cuestión",
+        "year": 2012,
+        "director": "Nombre Apellido",
+        "pic_sm": "foto-1-chica.jpg",
+        "pic_lg": "foto-1-grande.jpg",
+        "trailer": "https://youtu.be/BApEMYvtiDc",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris vel enim vitae dolor suscipit mollis at eget elit. Pellentesque mattis, arcu non dignissim mollis, velit risus imperdiet felis, maximus venenatis felis felis eu dui. Nunc dui tellus, maximus a eleifend tempus, porta eget tortor. Vivamus sed auctor tellus. Vestibulum finibus massa ex, eget tempor nisi efficitur et. Vivamus sodales est venenatis metus fermentum hendrerit. Donec sollicitudin a leo quis euismod. Aliquam enim lacus, cursus non pharetra vitae, fermentum in justo. Integer consectetur sed augue nec porta. Morbi ornare blandit sem. Fusce ex nisi, interdum non gravida sed, sollicitudin eget quam. Mauris in lobortis arcu, id ultricies turpis."
+    },
+    {
+        "name": "La séptima cuestión",
+        "year": 2014,
+        "director": "Nombre Apellido",
+        "pic_sm": "foto-1-chica.jpg",
+        "pic_lg": "foto-1-grande.jpg",
+        "trailer": "https://youtu.be/BApEMYvtiDc",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris vel enim vitae dolor suscipit mollis at eget elit. Pellentesque mattis, arcu non dignissim mollis, velit risus imperdiet felis, maximus venenatis felis felis eu dui. Nunc dui tellus, maximus a eleifend tempus, porta eget tortor. Vivamus sed auctor tellus. Vestibulum finibus massa ex, eget tempor nisi efficitur et. Vivamus sodales est venenatis metus fermentum hendrerit. Donec sollicitudin a leo quis euismod. Aliquam enim lacus, cursus non pharetra vitae, fermentum in justo. Integer consectetur sed augue nec porta. Morbi ornare blandit sem. Fusce ex nisi, interdum non gravida sed, sollicitudin eget quam. Mauris in lobortis arcu, id ultricies turpis."
+    },
+    {
+        "name": "La octava cuestión",
+        "year": 2016,
+        "director": "Nombre Apellido",
+        "pic_sm": "foto-1-chica.jpg",
+        "pic_lg": "foto-1-grande.jpg",
+        "trailer": "https://youtu.be/BApEMYvtiDc",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris vel enim vitae dolor suscipit mollis at eget elit. Pellentesque mattis, arcu non dignissim mollis, velit risus imperdiet felis, maximus venenatis felis felis eu dui. Nunc dui tellus, maximus a eleifend tempus, porta eget tortor. Vivamus sed auctor tellus. Vestibulum finibus massa ex, eget tempor nisi efficitur et. Vivamus sodales est venenatis metus fermentum hendrerit. Donec sollicitudin a leo quis euismod. Aliquam enim lacus, cursus non pharetra vitae, fermentum in justo. Integer consectetur sed augue nec porta. Morbi ornare blandit sem. Fusce ex nisi, interdum non gravida sed, sollicitudin eget quam. Mauris in lobortis arcu, id ultricies turpis."
+    }
+]
